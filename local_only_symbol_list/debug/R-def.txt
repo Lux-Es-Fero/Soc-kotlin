@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id email_edittext_prihls
+id email_edittext_reg
+id heslo_edittext_prihls
+id heslo_edittext_reg
+id mate_ucet_prihlaste_sa
+id prihls_button_prihls
+id reg_button_reg
+id textView
+id uzmen_edittext_reg
+layout activity_main
+layout activity_prihlastesa
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Kotlinsoc
+style Theme.Kotlinsoc
+xml backup_rules
+xml data_extraction_rules
