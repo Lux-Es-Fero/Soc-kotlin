@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.kotlinsoc.app-mergeDebugResources-30:/layout/activity_prihlastesa.xml",
+        "source": "com.example.kotlinsoc.app-main-33:/layout/activity_prihlastesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCB12400FRX6600mk2\\.gradle\\daemon\\8.2\\com.example.kotlinsoc.app-mergeDebugResources-30:\\layout\\activity_prihlastesa.xml",
+        "source": "C:\\Users\\DCB12400FRX6600mk2\\.gradle\\daemon\\8.2\\com.example.kotlinsoc.app-main-33:\\layout\\activity_prihlastesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\DCB12400FRX6600mk2\\.gradle\\daemon\\8.2\\com.example.kotlinsoc.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DCB12400FRX6600mk2\\.gradle\\daemon\\8.2\\com.example.kotlinsoc.app-main-33:\\layout\\activity_main.xml"
+    }
+]
